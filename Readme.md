@@ -12,23 +12,107 @@
 </div>
 
 <hr>
-
+<!-- VS code -->
 <div align="center">
-	<img height="200" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/>
+	<img height="200" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" />
 </div>
 
 <div align="center">
     <h3> Visual Studio Code Shortcuts <a href = "VSCODE.md" >👉Click Here</a>
     </h3>
 </div>
+<!-- VS code -->
 
 <br>
 
+<!-- IntelIj -->
 <div align="center">
-	<img height="200" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Visual Studio Code" title="Visual Studio Code"/>
+	<img height="200" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" />
+</div>
+
+<div align="center">
+    <h3> IntelIj Shortcuts <a href = "VSCODE.md" >👉Click Here</a>
+    </h3>
+</div>
+<!-- IntelIj -->
+<br>
+<!-- Android Studioe -->
+<div align="center">
+	<img height="200" src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" />
+</div>
+
+<div align="center">
+    <h3> Android Studio Shortcuts <a href = "VSCODE.md" >👉Click Here</a>
+    </h3>
+</div>
+<!-- Android Studio -->
+<br>
+
+<!-- windows -->
+<div align="center">
+	<img height="200" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" />
 </div>
 
 <div align="center">
     <h3> Windows Shortcuts <a href = "VSCODE.md" >👉Click Here</a>
     </h3>
 </div>
+<!-- windows -->
+
+<br>
+
+<!-- Crome -->
+<div align="center">
+	<img height="200" src="images/crome.png" />
+    <img height="200" src="https://img.icons8.com/fluency/240/null/ms-edge-new.png" />
+</div>
+
+<div align="center">
+    <h3> Google Crome & Microsoft Edge Shortcuts <a href = "VSCODE.md" >👉Click Here</a>
+    </h3>
+</div>
+<!-- Crome -->
+
+<!-- Ms word -->
+<div align="center">
+	<img height="200" src="https://img.icons8.com/fluency/240/null/microsoft-word-2019.png"/>
+   <img height="180" src ="https://img.icons8.com/color/240/null/google-docs--v1.png"/>
+</div>
+
+<div align="center">
+    <h3> Google Docs & Word Shortcuts <a href = "VSCODE.md" >👉Click Here</a>
+    </h3>
+</div>
+<!-- Ms word -->
+
+<br>
+
+<!-- windows -->
+<div align="center">
+	<img height="200" src="https://img.icons8.com/3d-fluency/375/null/youtube-play.png" />
+</div>
+
+<div align="center">
+    <h3>  YouTube Shortcuts <a href = "VSCODE.md" >👉Click Here</a>
+    </h3>
+</div>
+<!-- windows -->
+
+<br>
+
+<!-- windows -->
+<div align="center">
+	<img height="200" src="https://img.icons8.com/color/240/null/google-keep.png" />
+    <img height="200" src="https://img.icons8.com/bubbles/200/null/list.png" />
+     <img height="200" src="https://img.icons8.com/color/240/null/google-logo.png" />
+</div>
+
+<div align="center">
+    <h3> Google Task, Keep & Calender Shortcut <a href = "VSCODE.md" >👉Click Here</a>
+    </h3>
+</div>
+<!-- windows -->
+
+<br>
+
+
