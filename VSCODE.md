@@ -1,4 +1,10 @@
-## 😲 Visual Studio Code Shortcuts
+<div align="center">
+	<img height="200" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/>
+</div>
+<div align="center">
+    <h2> 👉 Visual Studio Code Shortcuts
+    </h2>
+</div><hr>
 
 #### ✍️ Spilt Editor
 
@@ -6,11 +12,11 @@
 Ctrl+\
 ```
 
-
 #### ✍️ Move Line Up & Down
 
 ```bash
 Alt+Up
+
 Alt+Down
 ```
 
@@ -18,6 +24,7 @@ Alt+Down
 
 ```bash
 Shift+Alt+Up
+
 Shift+Alt+Down
 ```
 
@@ -27,7 +34,7 @@ Shift+Alt+Down
 Shift+Ctrl+K
 ```
 
-#### ✍️ Jump To Matching Bracket 
+#### ✍️ Jump To Matching Bracket
 
 ```bash
 Shift+Ctrl+\
@@ -49,6 +56,7 @@ Shift+Alt+A
 
 ```bash
 Option+Click
+
 Alt+Click
 ```
 
@@ -56,6 +64,7 @@ Alt+Click
 
 ```bash
 Cmd+Shift+O
+
 Ctrl+Shift+O
 ```
 
@@ -63,6 +72,18 @@ Ctrl+Shift+O
 
 ```bash
 Ctrl+,
+```
+
+#### ✍️ Run Code
+
+```bash
+Ctrl+Alt+N
+```
+
+#### ✍️ Format Code Style
+
+```bash
+Shift+Alt+F
 ```
 
 #### ✍️ Open Terminal
@@ -73,7 +94,7 @@ Ctrl+`
 Shift+Ctrl+` # Create a new terminal
 ```
 
-#### ✍️  Toggle Sidebar
+#### ✍️ Toggle Sidebar
 
 ```bash
 Ctrl+B
@@ -119,6 +140,6 @@ Shift+Ctrl+T
 
 ```bash
 Ctrl + + # Zoom in
+
 Ctrl + - # Zoom out
 ```
-
