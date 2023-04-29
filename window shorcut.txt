@@ -1,0 +1,23 @@
+win x
+win 7
+win 8
+win d 
+win left right up down
+win s 
+win w whiteboard
+win e
+win v clipboard
+win l lock
+win i settings
+win g
+win > emote
+win + magnifier
+ctrl + esc start
+ctrl shift esc taskmanager
+ctrl shift n newfolder
+f2 changename
+alt tab switch tab
+ctrl + backspace delete word
+home - cursor begining of the sentence 
+shift + end - select whole sentence
+shift + home - same
