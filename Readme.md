@@ -42,7 +42,7 @@
 </div>
 
 <div align="center">
-    <h3> Android Studio Shortcuts <a href = "VSCODE.md" >👉Click Here</a>
+    <h3> Android Studio Shortcuts <a href = "check.md" >👉Click Here</a>
     </h3>
 </div>
 <!-- Android Studio -->
