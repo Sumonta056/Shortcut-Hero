@@ -13,117 +13,83 @@
 
 <hr>
 <!-- VS code -->
-<div align="center">
-	<img height="200" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" />
-</div>
-
-
-<div align = "center">
 
 ### Visual Studio Code Shortcuts [ 👉**Click Here**](VSCODE.md)
-
+<div align="left">
+	<img height="200" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" />
 </div>
 <!-- VS code -->
 
-### Visual Studio Code Shortcuts [ 👉**Click Here**](VSCODE.md)
-
 <br>
 
 <!-- IntelIj -->
-<div align="center">
+### IntelIj Shortcuts [👉**Click Here**](word.md)
+<div align="left">
 	<img height="200" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" />
 </div>
-
-<div align = "center">
-
-### IntelIj Shortcuts [( 👉**Click Here** )](word.md)
-
-</div>
 <!-- IntelIj -->
+
 <br>
+
 <!-- Android Studioe -->
-<div align="center">
+
+### Android Studio Shortcuts [👉**Click Here**](word.md)
+
+<div align="left">
 	<img height="200" src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" />
-</div>
-
-<div align = "center">
-
-### Android Studio Shortcuts [( 👉**Click Here** )](word.md)
-
 </div>
 <!-- Android Studio -->
 <br>
 
 <!-- windows -->
-<div align="center">
+### Windows Shortcuts [👉**Click Here**](window.md)
+<div align="left">
 	<img height="200" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" />
-</div>
-
-
-<div align = "center">
-
-### Windows Shortcuts [( 👉**Click Here** )](window.md)
-
 </div>
 <!-- windows -->
 
 <br>
 
 <!-- Crome -->
-<div align="center">
+### Google Crome & Microsoft Edge Shortcuts[👉**Click Here**](crome.md)
+
+<div align="left">
 	<img height="200" src="images/crome.png" />
     <img height="200" src="https://img.icons8.com/fluency/240/null/ms-edge-new.png" />
 </div>
-
-
-<div align = "center">
-
-### Google Crome & Microsoft Edge Shortcuts[( 👉**Click Here** )](crome.md)
-
-</div>
 <!-- Crome -->
 
 <!-- Ms word -->
-<div align="center">
+
+### Google Docs & Word Shortcuts[👉**Click Here**](word.md)
+<div align="left">
 	<img height="200" src="https://img.icons8.com/fluency/240/null/microsoft-word-2019.png"/>
    <img height="180" src ="https://img.icons8.com/color/240/null/google-docs--v1.png"/>
-</div>
-
-
-<div align = "center">
-
-### Google Docs & Word Shortcuts [( 👉**Click Here** )](word.md)
-
 </div>
 <!-- Ms word -->
 
 <br>
 
 <!-- windows -->
-<div align="center">
+
+### YouTube Shortcuts  [👉**Click Here**](word.md)
+
+<div align="left">
 	<img height="200" src="https://img.icons8.com/3d-fluency/375/null/youtube-play.png" />
 </div>
 
-<div align = "center">
 
-### YouTube Shortcuts [( 👉**Click Here** )](word.md)
-
-</div>
 <!-- windows -->
 
 <br>
 
 <!-- windows -->
-<div align="center">
+
+### Google Task, Keep & Calender Shortcuts [👉**Click Here**](word.md)
+<div align="left">
 	<img height="200" src="https://img.icons8.com/color/240/null/google-keep.png" />
     <img height="200" src="https://img.icons8.com/bubbles/200/null/list.png" />
      <img height="200" src="https://img.icons8.com/color/240/null/google-logo.png" />
-</div>
-
-<div align = "center">
-
-### Google Task, Keep & Calender Shortcuts [( 👉**Click Here** )](word.md)
-
 </div>
 <!-- windows -->
 
