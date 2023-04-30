@@ -4,8 +4,8 @@
 </div>
 
 <div align="center">
-    <h3> Windows Shortcuts <a href = "VSCODE.md" >👉Click Here</a>
-    </h3>
+    <h2> 👉 Windows Shortcuts
+    </h2>
 </div>
 
 <hr>

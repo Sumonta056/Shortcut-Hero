@@ -10,11 +10,11 @@ filename: crome.md
 </div>
 
 <div align="center">
-    <h3> Google Crome & Microsoft Edge Shortcuts <a href = "window.md" >👉Click Here</a>
-    </h3>
+    <h2> 👉 Google Crome & Microsoft Edge Shortcuts
+    </h2>
 </div><hr>
 
-#### ✍️ Move forward through tabs 😊
+#### ✍️ Move forward through tabs
 
 ```bash
 Ctrl+Tab
