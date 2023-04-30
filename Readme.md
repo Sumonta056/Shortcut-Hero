@@ -97,9 +97,7 @@
 
 
 <div align="center">
-    <h3> Visual Studio Code Shortcuts <a href = "VSCODE.md" >👉Click Here</a>
-    </h3>
 
-### Visual Studio Code Shortcuts [ 👉**Click Here**](VSCODE.md)
-<div align="left">
+[ 👉**Click Here**](VSCODE.md)
+
 </div>
