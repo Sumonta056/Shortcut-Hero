@@ -1,78 +1,74 @@
 
 <div align="center">
-	<img height="200" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/>
+	<img height="200" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" />
 </div>
+
 <div align="center">
-    <h2> 👉 Visual Studio Code Shortcuts
-    </h2>
-</div><hr>
+    <h3> Windows Shortcuts <a href = "VSCODE.md" >👉Click Here</a>
+    </h3>
+</div>
 
-#### ✍️ Switch between open tabs
+<hr>
+
+#### ✍️ Open Tasks View
 
 ```bash
-Ctrl+Tab
+Windows key  + Tab
 ```
 
-#### ✍️ Spilt Editor
+#### ✍️ Display and hide the desktop
 
 ```bash
-Ctrl+\
+Windows key  + d
 ```
 
-#### ✍️ Move Line Up & Down
+#### ✍️ Switch between open apps
 
 ```bash
-Alt+Up
-
-Alt+Down
+Alt + Tab
 ```
 
-#### ✍️ Copy Line Up & Down
+#### ✍️ Open the Quick Link menu
 
 ```bash
-Shift+Alt+Up
-
-Shift+Alt+Down
+Windows key  + x
 ```
 
-#### ✍️ Remove Line
+#### ✍️ Lock your PC
 
 ```bash
-Shift+Ctrl+K
+Windows key  + l
 ```
 
-#### ✍️ Jump To Matching Bracket
+#### ✍️ Rename the selected file or folder
 
 ```bash
-Shift+Ctrl+\
+F2
 ```
 
-#### ✍️ Add Line Comment
+#### ✍️ Open the selected folder properties
 
 ```bash
-Ctrl+/
+Alt + Enter
 ```
 
-#### ✍️ Add Block Comment
+#### ✍️ Undo Items
 
 ```bash
-Shift+Alt+A
+Ctlr + z
+```
+#### ✍️ Redo Items
+
+```bash
+Ctlr + y
 ```
 
-#### ✍️ Add Cursor For Editing Multiple Lines at a time
+
+#### ✍️ Open Start Menu
 
 ```bash
-Option+Click
 
-Alt+Click
-```
-
-#### ✍️ Go to Entity (Functions, vars, etc)
-
-```bash
-Cmd+Shift+O
-
-Ctrl+Shift+O
+Ctrl+Escape
 ```
 
 #### ✍️ Open Settings

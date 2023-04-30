@@ -54,7 +54,7 @@
 </div>
 
 <div align="center">
-    <h3> Windows Shortcuts <a href = "VSCODE.md" >👉Click Here</a>
+    <h3> Windows Shortcuts <a href = "window.md" >👉Click Here</a>
     </h3>
 </div>
 <!-- windows -->
@@ -68,7 +68,7 @@
 </div>
 
 <div align="center">
-    <h3> Google Crome & Microsoft Edge Shortcuts <a href = "VSCODE.md" >👉Click Here</a>
+    <h3> Google Crome & Microsoft Edge Shortcuts <a href = "window.md" >👉Click Here</a>
     </h3>
 </div>
 <!-- Crome -->
@@ -108,7 +108,7 @@
 </div>
 
 <div align="center">
-    <h3> Google Task, Keep & Calender Shortcut <a href = "VSCODE.md" >👉Click Here</a>
+    <h3> Google Task, Keep & Calender Shortcuts <a href = "VSCODE.md" >👉Click Here</a>
     </h3>
 </div>
 <!-- windows -->
