@@ -1,3 +1,7 @@
+---
+title: Title
+---
+
 <div align="center">
 
 <h2> ✍️ Shortcut Hero </h2>
@@ -114,7 +118,7 @@
 	<img height="200" src="https://img.icons8.com/3d-fluency/375/null/youtube-play.png" />
 </div>
 
-<div align = "center">
+<div align = "Right">
 
 <h3>👉 YouTube Shortcut </h3>
 
@@ -138,6 +142,7 @@
 <h3>👉 Google Task, Keep & Calender Shortcuts </h3>
 
 </div>
+
 
 [![](click.png)](window.md)
 <!-- windows -->
