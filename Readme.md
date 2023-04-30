@@ -20,10 +20,12 @@
 
 <div align = "center">
 
-### Visual Studio Code Shortcuts [( 👉**Click Here** )](VSCODE.md)
+### Visual Studio Code Shortcuts [ 👉**Click Here**](VSCODE.md)
 
 </div>
 <!-- VS code -->
+
+### Visual Studio Code Shortcuts [ 👉**Click Here**](VSCODE.md)
 
 <br>
 
