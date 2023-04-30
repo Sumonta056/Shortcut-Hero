@@ -25,7 +25,7 @@ Windows key  + d
 #### ✍️ Switch between open apps
 
 ```bash
-Alt + Tab
+Alt + Tab  // Hold Sometimes
 ```
 
 #### ✍️ Open the Quick Link menu
@@ -63,7 +63,6 @@ Ctlr + z
 Ctlr + y
 ```
 
-
 #### ✍️ Open Start Menu
 
 ```bash
@@ -71,78 +70,97 @@ Ctlr + y
 Ctrl+Escape
 ```
 
-#### ✍️ Open Settings
+#### ✍️ Open File Explorer
 
 ```bash
-Ctrl+,
+Windows key  + E
 ```
 
-#### ✍️ Run Code
+#### ✍️ Open Window Settings
 
 ```bash
-Ctrl+Alt+N
+Windows key  + I
 ```
 
-#### ✍️ Format Code Style
+#### ✍️ Launch Voice Typing
 
 ```bash
-Shift+Alt+F
+Windows key  + H
 ```
 
-#### ✍️ Open Terminal
+#### ✍️ Minimize Open Windows
 
 ```bash
-Ctrl+`
-
-Shift+Ctrl+` # Create a new terminal
+Windows key  + m
 ```
 
-#### ✍️ Toggle Sidebar
+#### ✍️ Restore minimized windows on the desktop
 
 ```bash
-Ctrl+B
+Windows key  + shift + m
 ```
 
-#### ✍️ Open New Window/Instance
+#### ✍️ Task Manager
 
 ```bash
-Shift+Ctrl+N
+Shift+Ctrl+Esc
 ```
 
-#### ✍️ Close Window
+#### ✍️ Create a new folder
 
 ```bash
-Ctrl+W
+Ctrl+Shift+N
 ```
 
-#### ✍️ Sidebar Focus & Use Sidebar Files
+#### ✍️ Window Notification
 
 ```bash
-Shift+Ctrl+E
+Windows key  + n
 ```
 
-#### ✍️ Quick File Open From Current Directory
+#### ✍️ Window Action Bar
 
 ```bash
-Ctrl+P
+Windows key  + a
 ```
 
-#### ✍️ Open File From Explorer
+#### ✍️ Open Run Command Window
 
 ```bash
-Ctrl+O
+Windows key  + r
 ```
 
-#### ✍️ Reopen Close Files
-
-```
-Shift+Ctrl+T
-```
-
-#### ✍️ Zoom IDE
+#### ✍️ Open Search Box
 
 ```bash
-Ctrl + + # Zoom in
-
-Ctrl + - # Zoom out
+Windows key  + S
 ```
+
+#### ✍️ Screenshot
+
+```bash
+Windows key  + Shift + s
+```
+
+#### ✍️ Select & Cycle through apps on the taskbar
+
+```bash
+Windows key  + T
+```
+
+#### ✍️ Open the clipboard history. 
+
+```bash
+Windows key  + V
+```
+#### ✍️ Open Emote
+
+```bash
+Windows key  + .
+```
+#### ✍️ Close a app or software
+
+```bash
+Ctrl + Shift + w
+```
+
