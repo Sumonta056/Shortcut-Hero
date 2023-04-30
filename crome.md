@@ -9,7 +9,7 @@
     </h3>
 </div><hr>
 
-#### ✍️ Move forward through tabs
+#### ✍️ Move forward through tabs 😊
 
 ```bash
 Ctrl+Tab
