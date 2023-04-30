@@ -18,7 +18,7 @@
 </div>
 
 <div align="center">
-    <h3> Visual Studio Code Shortcuts <a href = "VSCODE.html" >👉Click Here</a>
+    <h3> Visual Studio Code Shortcuts <a href = "vscode/Readme.md" >👉Click Here</a>
     </h3>
 </div>
 <!-- VS code -->
