@@ -120,7 +120,7 @@
 
 </div>
 
-[![E](click.png 'E')](window.md)
+[👉 **Click Here**](window.md)
 <!-- windows -->
 
 <br>
