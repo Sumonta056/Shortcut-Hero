@@ -39,10 +39,10 @@ Shift+Tab
 Ctrl+W
 ```
 
-#### ✍️ Jump To Matching Bracket
+#### ✍️ Open New Link in a new tab
 
 ```bash
-Shift+Ctrl+\
+Ctrl+ click the link
 ```
 
 #### ✍️ Add Line Comment

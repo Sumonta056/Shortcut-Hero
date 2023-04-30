@@ -80,7 +80,7 @@
 </div>
 
 <div align="center">
-    <h3> Google Docs & Word Shortcuts <a href = "VSCODE.md" >👉Click Here</a>
+    <h3> Google Docs & Word Shortcuts <a href = "word.md" >👉Click Here</a>
     </h3>
 </div>
 <!-- Ms word -->
