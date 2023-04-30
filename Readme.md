@@ -139,7 +139,7 @@
 
 </div>
 
-[![E](click.png 'E')](window.md)
+[![](click.png)](window.md)
 <!-- windows -->
 
 <br>
