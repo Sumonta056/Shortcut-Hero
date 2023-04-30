@@ -96,8 +96,7 @@
 <br>
 
 
-<div align="center">
 
-[ 👉**Click Here**](VSCODE.md)
 
-</div>
+[👉**Click Here**](VSCODE.md)
+
