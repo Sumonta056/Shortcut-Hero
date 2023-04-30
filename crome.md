@@ -1,3 +1,8 @@
+---
+title: crome
+layout: template
+filename: crome.md
+--- 
 
 <div align="center">
 	<img height="200" src="images/crome.png" />
