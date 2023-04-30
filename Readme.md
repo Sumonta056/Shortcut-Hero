@@ -68,7 +68,7 @@
 </div>
 
 <div align="center">
-    <h3> Google Crome & Microsoft Edge Shortcuts <a href = "window.md" >👉Click Here</a>
+    <h3> Google Crome & Microsoft Edge Shortcuts <a href = "crome.md" >👉Click Here</a>
     </h3>
 </div>
 <!-- Crome -->
