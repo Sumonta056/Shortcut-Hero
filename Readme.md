@@ -1,6 +1,3 @@
----
-title: Readme.md
----
 
 <div align="center">
 
@@ -118,14 +115,14 @@ title: Readme.md
 	<img height="200" src="https://img.icons8.com/3d-fluency/375/null/youtube-play.png" />
 </div>
 
-<div align = "Right">
+<div align = "Center">
 
 <h3>👉 YouTube Shortcut </h3>
 
 </div>
 
-[👉 **Click Here**](window.md)
-<!-- windows -->
+[![](click.png)](window.md)
+
 
 <br>
 
